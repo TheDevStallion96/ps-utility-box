@@ -1,4 +1,4 @@
-# PSUtilityBox: Empowering PowerShell Mastery
+# PowerShell Utility Box
 
 Welcome to PSUtilityBox, your ultimate resource for supercharging your PowerShell expertise. This repository houses a carefully curated collection of powerful scripts designed to elevate your automation, streamline system management, and enhance overall efficiency.
 
